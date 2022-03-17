@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Restudent_rj/static/css/main.c4605496.css",
+    "main.js": "/Restudent_rj/static/js/main.ef6fb852.js",
+    "index.html": "/Restudent_rj/index.html",
+    "main.c4605496.css.map": "/Restudent_rj/static/css/main.c4605496.css.map",
+    "main.ef6fb852.js.map": "/Restudent_rj/static/js/main.ef6fb852.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4605496.css",
+    "static/js/main.ef6fb852.js"
+  ]
+}
